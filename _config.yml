@@ -9,7 +9,8 @@ twitter_username: rowen0820
 github_username:  Winlang
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
 
 paginate: 4
 

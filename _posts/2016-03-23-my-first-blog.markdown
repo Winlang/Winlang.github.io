@@ -49,7 +49,7 @@ If your GitHub Pages site isn't loading at your custom domain, you may have an e
  from github.
 
 
-{% highlight php %}
+{% highlight ruby %}
 echo 'test';
 {% endhighlight %}
 

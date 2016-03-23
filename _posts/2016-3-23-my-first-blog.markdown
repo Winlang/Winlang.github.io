@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using a custom domain with GitHub Pages"
-date:   2016-03-23 10:54:23
+date:   2016-3-23 10:54:23
 categories: domain pages
 tags: domain pages
 image: /images/pic01.jpg

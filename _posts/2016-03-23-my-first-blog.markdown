@@ -2,8 +2,8 @@
 layout: post
 title:  "Using a custom domain with GitHub Pages"
 date:   2016-03-23 10:54:23
-categories: domain pages
-tags: domain pages
+categories: jekyll update
+tags: jekyll update
 image: /images/pic01.jpg
 ---
 You can customize the domain name of your GitHub Pages site.

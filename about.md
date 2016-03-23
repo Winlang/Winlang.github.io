@@ -2,11 +2,12 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/pic02.jpg
+image: /images/avator.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my personal blog. You can find out more info about me.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+At now , I am a Web developer , working in a company named Sursen.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Technology label:
+`HTML5/CSS3` , `Linux` , `PHP` , `Python` , `Nodejs` , `Go` , `Mysql` , `MongoDB` , `Javascript` , `C` , `Matlab` 

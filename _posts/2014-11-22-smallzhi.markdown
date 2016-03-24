@@ -2,8 +2,8 @@
 layout: post
 title:  "谈谈小智音箱"
 date:   2014-11-22 10:02:07
-categories: 智能硬件
-tags: 智能硬件
+categories: Intelligent hardware
+tags: Intelligent hardware
 ---
 一不小心进入测评界了~
 拿到[小智](http://www.smallzhi.com/)也快有十日了，很惭愧都没好好调戏一下，周末刚好有点时间，也是集中体验了一下小智当前能做的事情的一部分，说一部分的原因是，小智当前支持的28家智能家居产品，我是没有办法来体验了，所有只能通过体验一些当前比较成熟且比较通用的功能来告诉大家，其实通过这些也是能基本看清楚当前这款智能产品的现状的。

@@ -37,7 +37,25 @@
               {% endif %}
               {{ content }}
 
-              <!--评论 开始-->
+
+
+
+              <footer>
+                <ul class="stats">
+                {% for tag in page.tags limit:3 %}
+                  <li><a href="#">{{ tag }}</a></li>
+                {% endfor %}
+        <!--
+        <li><a href="#">General</a></li>
+        <li><a href="#" class="icon fa-heart">28</a></li>
+        <li><a href="#" class="icon fa-comment">128</a></li>
+        -->
+                </ul>
+              </footer>
+           </article>
+					</div>
+
+           <!--评论 开始-->
             <div id="disqus_thread"></div>
             <script>
             /**
@@ -61,22 +79,7 @@
             </script>
             <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
             <!--评论 结束-->
-              
 
-              <footer>
-                <ul class="stats">
-                {% for tag in page.tags limit:3 %}
-                  <li><a href="#">{{ tag }}</a></li>
-                {% endfor %}
-        <!--
-        <li><a href="#">General</a></li>
-        <li><a href="#" class="icon fa-heart">28</a></li>
-        <li><a href="#" class="icon fa-comment">128</a></li>
-        -->
-                </ul>
-              </footer>
-           </article>
-					</div>
 
 				<!-- Sidebar -->
 					<section id="sidebar">

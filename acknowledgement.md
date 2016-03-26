@@ -2,7 +2,8 @@
 layout: page
 title: acknowledgement
 permalink: /acknowledgement/
-image: /images/pic01.jpg
+image: http://7xsavd.com1.z0.glb.clouddn.com/Acknowledgement-1-1024x679.jpg
 ---
-### Website Design
-- [HTML5up](http://html5up.net/)
+### Person
+- [傅小黑](http://http://fuxiaohei.me)
+- [安正超](http://http://overtrue.com)

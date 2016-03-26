@@ -2,7 +2,6 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/avator.jpg
 ---
 
 This is my personal blog . You can find out more info about me .
